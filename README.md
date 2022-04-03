@@ -6,4 +6,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 ![mi foto](mifoto.jpg)
 
-## Mi gusto de helado favorito es el Limon y soy fantico de Racing 
+## Mi gusto de helado favorito es el Limon y soy fanatico de Racing 
