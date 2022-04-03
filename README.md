@@ -6,4 +6,4 @@ Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQko
 
 ![mi foto](mifoto.jpg)
 
-## Mi gusto de helado favorito es el Limon y soy fanatico de Racing 
+## Buenas Soy Franco, soy de villa crespo, tengo 19 años, mi gusto de helado favorito es el Limon y soy fanatico de Racing y de Messi 
